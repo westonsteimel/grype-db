@@ -12,7 +12,7 @@ inputs:
   go-version:
     description: "Go version to install"
     required: true
-    default: "1.26.2"
+    default: "1.26.3"
   python-version:
     description: "Python version to install"
     required: true
